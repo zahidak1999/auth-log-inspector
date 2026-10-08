@@ -1,0 +1,44 @@
+[
+  {
+    "@timestamp": "2026-10-08T09:14:02Z",
+    "host": { "name": "lab-server" },
+    "event": { "category": ["authentication"], "outcome": "failure" },
+    "source": { "ip": "203.0.113.77" },
+    "user": { "name": "admin" }
+  },
+  {
+    "@timestamp": "2026-10-08T09:14:07Z",
+    "host": { "name": "lab-server" },
+    "event": { "category": ["authentication"], "outcome": "failure" },
+    "source": { "ip": "203.0.113.77" },
+    "user": { "name": "root" }
+  },
+  {
+    "@timestamp": "2026-10-08T09:14:13Z",
+    "host": { "name": "lab-server" },
+    "event": { "category": ["authentication"], "outcome": "failure" },
+    "source": { "ip": "203.0.113.77" },
+    "user": { "name": "test" }
+  },
+  {
+    "@timestamp": "2026-10-08T09:14:20Z",
+    "host": { "name": "lab-server" },
+    "event": { "category": ["authentication"], "outcome": "failure" },
+    "source": { "ip": "203.0.113.77" },
+    "user": { "name": "guest" }
+  },
+  {
+    "@timestamp": "2026-10-08T09:14:28Z",
+    "host": { "name": "lab-server" },
+    "event": { "category": ["authentication"], "outcome": "failure" },
+    "source": { "ip": "203.0.113.77" },
+    "user": { "name": "zahid" }
+  },
+  {
+    "@timestamp": "2026-10-08T09:15:01Z",
+    "host": { "name": "lab-server" },
+    "event": { "category": ["authentication"], "outcome": "success" },
+    "source": { "ip": "203.0.113.77" },
+    "user": { "name": "zahid" }
+  }
+]

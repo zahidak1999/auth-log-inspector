@@ -1,0 +1,9 @@
+Oct  8 09:14:02 lab-server sshd[1201]: Failed password for invalid user admin from 203.0.113.44 port 50102 ssh2
+Oct  8 09:14:07 lab-server sshd[1203]: Failed password for invalid user admin from 203.0.113.44 port 50108 ssh2
+Oct  8 09:14:13 lab-server sshd[1205]: Failed password for root from 203.0.113.44 port 50114 ssh2
+Oct  8 09:14:20 lab-server sshd[1207]: Failed password for invalid user test from 203.0.113.44 port 50120 ssh2
+Oct  8 09:14:28 lab-server sshd[1209]: Failed password for Vil from 203.0.113.44 port 50126 ssh2
+Oct  8 09:15:01 lab-server sshd[1212]: Accepted publickey for Vil from 203.0.113.44 port 50150 ssh2: ED25519 SHA256:example
+Oct  8 09:17:44 lab-server sshd[1230]: Failed password for invalid user guest from 198.51.100.27 port 44210 ssh2
+Oct  8 09:18:05 lab-server sshd[1234]: Accepted password for dev from 192.0.2.18 port 39002 ssh2
+Oct  8 09:18:12 lab-server CRON[1238]: pam_unix(cron:session): session opened for user root
